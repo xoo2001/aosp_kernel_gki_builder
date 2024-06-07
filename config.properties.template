@@ -1,5 +1,5 @@
-KERNEL_SOURCE=
-KERNEL_SOURCE_BRANCH=
+KERNEL_SOURCE=https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+KERNEL_SOURCE_BRANCH=peridot-u-oss
 KERNEL_CONFIG=gki_defconfig
 KERNEL_IMAGE_NAME=Image
 ARCH=arm64
